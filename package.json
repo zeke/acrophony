@@ -1,0 +1,42 @@
+{
+  "name": "acrophony",
+  "version": "1.0.0",
+  "description": "An experimental React GUI for acrophonic alphabets",
+  "main": "index.js",
+  "scripts": {
+    "start": "jus server",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeke/acrophony.git"
+  },
+  "keywords": [
+    "acrophony",
+    "alphabets",
+    "spelling",
+    "english",
+    "words",
+    "letters",
+    "language"
+  ],
+  "author": "zeke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeke/acrophony/issues"
+  },
+  "homepage": "https://github.com/zeke/acrophony#readme",
+  "dependencies": {
+    "acrophonic-alphabets": "^2.1.0",
+    "alphabet": "^1.0.0",
+    "domready": "^1.0.8",
+    "jus": "^0.2.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  },
+  "devDependencies": {
+    "enzyme": "^1.2.0",
+    "mocha": "^2.3.4",
+    "react-addons-test-utils": "^0.14.3"
+  }
+}
