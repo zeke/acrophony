@@ -1,0 +1,36 @@
+body {
+  font-family: Georgia;
+  padding: 15px;
+  line-height: 1.4; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal; }
+
+#app {
+  max-width: 800px;
+  margin: 0 auto; }
+
+input.filter {
+  font-family: Georgia;
+  width: 100%;
+  font-size: 1.3rem;
+  padding: 8px; }
+
+.alphabet-list {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+.alphabet-spelling {
+  font-size: 1.4rem;
+  display: block;
+  margin: 0;
+  padding: 20px 0 0 0; }
+
+.alphabet-name {
+  font-size: 0.9rem;
+  margin: 0;
+  opacity: 0.5; }
+
+.text-muted {
+  opacity: 0.5; }
